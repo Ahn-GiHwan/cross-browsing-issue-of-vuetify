@@ -8,7 +8,7 @@
       <v-row>
         <v-col class='pink' align='start'>test1</v-col>
         <v-col class='purple' align='center'>test2</v-col>
-        <v-col class='orange' align='end'>test2</v-col>
+        <v-col class='orange' align='end'>test3</v-col>
       </v-row>
     </v-app-bar>
 
